@@ -1,7 +1,15 @@
-### Hi there 👋
+<h3>Hello, I am Md Emran Nazir</h3>
+<p>I am a professional Web Developer,I have ideas on both frontend and backend sites, my focus is on Front-End. I like to do challenging work. Already I developed various website with the technology JavaScript, ES6, React, Bootstrap, React Bootstrap, MaterialUi, DOM, HTML5, CSS.</p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-@emran899dev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrannazir99/)](https://www.linkedin.com/in/hasibshekh/)
+[![Twitter Badge](https://img.shields.io/badge/-@emran899dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/emran899dev)](https://twitter.com/HasibShekh4)
+[![Instagram Badge](https://img.shields.io/badge/-@emran899dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/hasibsheikh2130/)
+[![Gmail Badge](https://img.shields.io/badge/-@emran899dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hasib2130@gmail.com)](mailto:mdemrannazir9999@gmail.com)
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=emran899dev&amp;show_icons=true%22%20alt=%22GitHub%20Stats"></p>
 <!--
-**emran899dev/emran899dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sheikhhasib/sheikhhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
