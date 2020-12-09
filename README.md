@@ -9,7 +9,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=emran899dev&amp;show_icons=true%22%20alt=%22GitHub%20Stats"></p>
 <!--
-**sheikhhasib/sheikhhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emran899dev/emran899dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
